@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1706-un-quarantine-tests-a11y-test-tsx-by-fixing",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1706-un-quarantine-tests-a11y-test-tsx-by-fixing": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1706-un-quarantine-tests-a11y-test-tsx-by-fixing",
+    "origin"
+  ]
+}
